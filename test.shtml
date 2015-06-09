@@ -1,0 +1,49 @@
+<h3>It's a Server Side Include (SSI) documents test</h3>
+
+#include file:
+<font color="blue">
+<!--#include file="test.html" -->
+</font>
+
+#include virtual:<br>
+<font color="blue">
+<!--#include virtual="/cgi-bin/test.cgi" -->
+</font><br><br>
+
+#echo var:<br>
+<font color="blue">
+DOCUMENT_URI=<!--#echo var="DOCUMENT_URI" -->
+</font><br><br>
+
+#config timefmt:<br>
+<font color="blue">
+<!--#config timefmt="%H:%M, %B %d, %Y" -->
+Last Modified=<!--#echo var="LAST_MODIFIED" -->
+</font><br><br>
+
+#set var:<br>
+<font color="blue">
+<!--#set var="test_var" value="test_value"-->
+test_var=<!--#echo var="test_var" -->
+</font><br><br>
+
+#if expr (apache 2.2 format):<br>
+<font color="blue">
+<!--#if expr="$test_var!=/value/" -->
+Add <b>&quot;SSILegacyExprParser on&quot;</b> to .htaccess
+<!--#else -->
+<b>OK</b>
+<!--#endif -->
+</font><br><br>
+
+#if expr (apache 2.4+ format):<br>
+<font color="blue">
+<!--#if expr="v('test_var') !~ /value/" -->
+Add <b>&quot;SSILegacyExprParser off&quot;</b> to .htaccess
+<!--#else -->
+<b>OK</b>
+<!--#endif -->
+</font><br><br>
+
+</body>
+</html>

@@ -1,0 +1,967 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Dashboard for WP\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/google-analytics-"
+"dashboard-for-wp\n"
+"POT-Creation-Date: 2015-04-27 19:26+0200\n"
+"PO-Revision-Date: 2015-05-23 14:45+0100\n"
+"Last-Translator: Alin Marcu <admin@deconf.com>\n"
+"Language-Team: Willem-Jan Meerkerk <info@bs-webdevelopment.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././admin/item-reports.php:67
+msgid "Analytics"
+msgstr "Analytics"
+
+#: .././admin/settings.php:94 .././admin/settings.php:202
+#: .././admin/settings.php:338 .././admin/settings.php:820
+#: .././admin/settings.php:1089
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: .././admin/settings.php:96 .././admin/settings.php:204
+#: .././admin/settings.php:340 .././admin/settings.php:797
+#: .././admin/settings.php:807 .././admin/settings.php:816
+#: .././admin/settings.php:822 .././admin/settings.php:834
+#: .././admin/settings.php:1050 .././admin/settings.php:1075
+#: .././admin/settings.php:1085 .././admin/settings.php:1091
+#: .././admin/settings.php:1103
+msgid "Cheating Huh?"
+msgstr "Cheating Huh?"
+
+#: .././admin/settings.php:100 .././admin/settings.php:208
+#: .././admin/settings.php:344 .././admin/settings.php:659
+#: .././admin/settings.php:848 .././admin/settings.php:1116
+#, php-format
+msgid "Something went wrong, check %1$s or %2$s."
+msgstr "Er ging iets mis, bekijk %1$s of %2$s."
+
+#: .././admin/settings.php:100 .././admin/settings.php:208
+#: .././admin/settings.php:344 .././admin/settings.php:659
+#: .././admin/settings.php:848 .././admin/settings.php:1116
+#: .././admin/setup.php:96 .././admin/setup.php:119
+msgid "Errors & Debug"
+msgstr "Fouten & debug"
+
+#: .././admin/settings.php:100 .././admin/settings.php:208
+#: .././admin/settings.php:344 .././admin/settings.php:659
+#: .././admin/settings.php:848 .././admin/settings.php:1116
+msgid "authorize the plugin"
+msgstr "autoriseer de plugin"
+
+#: .././admin/settings.php:105
+msgid "Google Analytics Frontend Settings"
+msgstr "Google Analytics frontend instellingen"
+
+#: .././admin/settings.php:116
+#, php-format
+msgid "Read %s for more information about Frontend Features and Options."
+msgstr "Lees %s voor meer informatie over frontend mogelijkheden en opties."
+
+#: .././admin/settings.php:116 .././admin/settings.php:224
+#: .././admin/settings.php:369 .././admin/settings.php:682
+msgid "this documentation page"
+msgstr "deze documentatie pagina"
+
+#: .././admin/settings.php:120 .././admin/settings.php:228
+msgid "Permissions"
+msgstr "Rechten"
+
+#: .././admin/settings.php:123 .././admin/settings.php:231
+msgid "Show stats to:"
+msgstr "Toon statistieken aan:"
+
+#: .././admin/settings.php:162
+msgid "show page sessions and users in frontend (after each article)"
+msgstr "toon pagina sessies en gebruikers in frontend (na elk artikel)"
+
+#: .././admin/settings.php:173
+msgid "show page searches (after each article)"
+msgstr "toon zoekopdrachten naar pagina (na elk artikel)"
+
+#: .././admin/settings.php:180 .././admin/settings.php:318
+#: .././admin/settings.php:617 .././admin/settings.php:965
+#: .././admin/settings.php:1253
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: .././admin/settings.php:213
+msgid "Google Analytics Backend Settings"
+msgstr "Google Analytics backend instellingen"
+
+#: .././admin/settings.php:224
+#, php-format
+msgid "Read %s for more information about Backend Features and Options."
+msgstr "Lees %s voor meer informatie over backend mogelijkheden en opties."
+
+#: .././admin/settings.php:272
+msgid "enable Switch View functionality"
+msgstr "inschakelen meerdere weergaven"
+
+#: .././admin/settings.php:283
+msgid "enable reports on Posts List and Pages List"
+msgstr "inschakelen van rapporten in berichten en pagina's lijsten"
+
+#: .././admin/settings.php:294
+msgid "enable the main Dashboard Widget"
+msgstr "inschakelen van de dashboard widget"
+
+#: .././admin/settings.php:298
+msgid "Real-Time Settings"
+msgstr "Realtime instellingen"
+
+#: .././admin/settings.php:301
+msgid "Maximum number of pages to display on real-time tab:"
+msgstr "Maximaal aantal pagina's om weer te geven op de realtime tab:"
+
+#: .././admin/settings.php:306
+msgid "Location Settings"
+msgstr "Locatie instellingen"
+
+#: .././admin/settings.php:310
+msgid "Target Geo Map to country:"
+msgstr "Inzoomen kaart naar het volgende land:"
+
+#: .././admin/settings.php:347
+msgid ""
+"The tracking component is disabled. You should set <strong>Tracking Options</"
+"strong> to <strong>Enabled</strong>"
+msgstr ""
+"Tracking is op dit moment uitgeschakeld. Ga naar <strong>Tracking "
+"instellingen</strong> en kies daar <strong>Ingeschakeld</strong>"
+
+#: .././admin/settings.php:352
+msgid "Google Analytics Tracking Code"
+msgstr "Google Analytics trackingcode"
+
+#: .././admin/settings.php:361
+msgid "Basic Settings"
+msgstr "Basis instellingen"
+
+#: .././admin/settings.php:362 .././admin/settings.php:429
+msgid "Events Tracking"
+msgstr "Gebeurtenis tracking"
+
+#: .././admin/settings.php:363 .././admin/settings.php:477
+msgid "Custom Definitions"
+msgstr "Aangepaste definities"
+
+#: .././admin/settings.php:364 .././admin/settings.php:575
+#: .././admin/settings.php:1236
+msgid "Exclude Tracking"
+msgstr "Tracking uitsluiten"
+
+#: .././admin/settings.php:365
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: .././admin/settings.php:369
+#, php-format
+msgid "For more information about Tracking Options read %s."
+msgstr "Voor meer informatie over tracking opties, lees %s."
+
+#: .././admin/settings.php:374
+msgid "Tracking Settings"
+msgstr "Tracking instellingen"
+
+#: .././admin/settings.php:377
+msgid "Tracking Options:"
+msgstr "Tracking:"
+
+#: .././admin/settings.php:379
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: .././admin/settings.php:380
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: .././admin/settings.php:388 .././admin/settings.php:912
+#: .././admin/settings.php:933 .././admin/settings.php:1209
+#: .././admin/widgets.php:71
+msgid "View Name:"
+msgstr "Weergavenaam:"
+
+#: .././admin/settings.php:388 .././admin/settings.php:933
+msgid "Tracking ID:"
+msgstr "Tracking ID:"
+
+#: .././admin/settings.php:388 .././admin/settings.php:933
+msgid "Default URL:"
+msgstr "Standaard URL:"
+
+#: .././admin/settings.php:388 .././admin/settings.php:933
+msgid "Time Zone:"
+msgstr "Tijdzone:"
+
+#: .././admin/settings.php:393
+msgid "Basic Tracking"
+msgstr "Basis tracking"
+
+#: .././admin/settings.php:396
+msgid "Tracking Type:"
+msgstr "Tracking type:"
+
+#: .././admin/settings.php:398
+msgid "Classic Analytics"
+msgstr "Classic Analytics"
+
+#: .././admin/settings.php:399
+msgid "Universal Analytics"
+msgstr "Universal Analytics"
+
+#: .././admin/settings.php:410
+msgid "anonymize IPs while tracking"
+msgstr "maak IP-adressen anoniem bij het tracken"
+
+#: .././admin/settings.php:421
+msgid "enable remarketing, demographics and interests reports"
+msgstr "inschakelen van remarketing, demographics en interests reports"
+
+#: .././admin/settings.php:439
+msgid "track downloads, mailto and outbound links"
+msgstr "track downloads, mailto en uitgaande links"
+
+#: .././admin/settings.php:443
+msgid "Downloads Regex:"
+msgstr "Downloads regex:"
+
+#: .././admin/settings.php:454
+msgid "track affiliate links matching this regex"
+msgstr "track affiliate links met de volgende regex"
+
+#: .././admin/settings.php:458
+msgid "Affiliates Regex:"
+msgstr "Affiliate regex:"
+
+#: .././admin/settings.php:469
+msgid "track fragment identifiers, hashmarks (#) in URI links"
+msgstr "track fragment identifiers, hashmarks (#) in URI links"
+
+#: .././admin/settings.php:480
+msgid "Authors:"
+msgstr "Auteurs:"
+
+#: .././admin/settings.php:488
+msgid "Publication Year:"
+msgstr "Publicatie jaar:"
+
+#: .././admin/settings.php:496
+msgid "Categories:"
+msgstr "Categorieën:"
+
+#: .././admin/settings.php:504
+msgid "User Type:"
+msgstr "Type gebruiker:"
+
+#: .././admin/settings.php:516
+msgid "Advanced Tracking"
+msgstr "Geavanceerde tracking"
+
+#: .././admin/settings.php:519
+msgid "Page Speed SR:"
+msgstr "Pagina-snelheid sample rate:"
+
+#: .././admin/settings.php:530
+msgid "exclude events from bounce-rate calculation"
+msgstr "uitsluiten van gebeurtenissen bij het berekenen van de bounce-rate"
+
+#: .././admin/settings.php:541
+msgid "enable enhanced link attribution"
+msgstr "inschakelen van uitgebreide linktoeschrijving"
+
+#: .././admin/settings.php:552
+msgid "enable AdSense account linking"
+msgstr "inschakelen van AdSende account linking"
+
+#: .././admin/settings.php:563
+msgid "enable cross domain tracking"
+msgstr "inschakelen van cross-domein tracking"
+
+#: .././admin/settings.php:567
+msgid "Cross Domains:"
+msgstr "Cross-domeinen:"
+
+#: .././admin/settings.php:578
+msgid "Exclude tracking for:"
+msgstr "Tracking uitschakelen voor:"
+
+#: .././admin/settings.php:663
+msgid "Google Analytics Errors & Debugging"
+msgstr "Google Analytics fouten & debug"
+
+#: .././admin/settings.php:673
+msgid "Errors & Details"
+msgstr "Fouten & details"
+
+#: .././admin/settings.php:674
+msgid "Plugin Settings"
+msgstr "Plugin instellingen"
+
+#: .././admin/settings.php:682
+#, php-format
+msgid "For errors and/or other issues check %s and related resources."
+msgstr "Voor fouten of andere problemen, bekijk %s en gerelateerde bronnen."
+
+#: .././admin/settings.php:687
+msgid "Last Error detected"
+msgstr "Laatste gedetecteerde fout"
+
+#: .././admin/settings.php:693 .././admin/settings.php:706
+msgid "None"
+msgstr "geen"
+
+#: .././admin/settings.php:700
+msgid "Error Details"
+msgstr "Fout details"
+
+#: .././admin/settings.php:720
+msgid "Plugin Configuration"
+msgstr "Plugin configuratie"
+
+#: .././admin/settings.php:742 .././admin/settings.php:1000
+msgid ""
+"Loading the required libraries. If this results in a blank screen or a fatal "
+"error, try this solution:"
+msgstr ""
+"Laden van de vereiste libraries. Als dit in een leeg scherm of fatale fout "
+"resulteert, probeer deze oplossing:"
+
+#: .././admin/settings.php:742
+msgid "Library conflicts between WordPress plugins"
+msgstr "Library conflict tussen Wordpress plugins"
+
+#: .././admin/settings.php:757 .././admin/settings.php:1017
+msgid "Plugin authorization succeeded."
+msgstr "Plugin autorisatie succesvol ingesteld."
+
+#: .././admin/settings.php:772 .././admin/settings.php:1041
+msgid ""
+"The access code is <strong>NOT</strong> your <strong>Tracking ID</strong> "
+"(UA-XXXXX-X). Try again, and use the red link to get your access code"
+msgstr ""
+"Deze toegangscode is <strong>NIET</strong> uw <strong>Tracking ID</strong> "
+"(UA-XXXXX-X). Probeer opnieuw, gebruik de rode link voor het verkrijgen van "
+"de toegangscode."
+
+#: .././admin/settings.php:795 .././admin/settings.php:1073
+msgid "Cleared Cache."
+msgstr "Cache leeggemaakt."
+
+#: .././admin/settings.php:804 .././admin/settings.php:1082
+msgid "Token Reseted and Revoked."
+msgstr "Token gereset en ingetrokken."
+
+#: .././admin/settings.php:814
+msgid "All errors reseted."
+msgstr "Alle fouten gereset."
+
+#: .././admin/settings.php:827 .././admin/settings.php:1096
+msgid "All other domains/properties were removed."
+msgstr "Alle andere domeinen/properties zijn verwijderd."
+
+#: .././admin/settings.php:839 .././admin/settings.php:1108
+msgid "Google Analytics Settings"
+msgstr "Google Analytics instellingen"
+
+#: .././admin/settings.php:853 .././admin/settings.php:1121
+msgid "Use the red link (see below) to generate and get your access code!"
+msgstr ""
+"Gebruik de rode link (zie hieronder) voor het genereren en verkrijgen van de "
+"toegangscode!"
+
+#: .././admin/settings.php:864 .././admin/settings.php:1149
+msgid "Plugin Authorization"
+msgstr "Plugin authorisatie"
+
+#: .././admin/settings.php:869 .././admin/settings.php:1153
+#, php-format
+msgid ""
+"You should watch the %1$s and read this %2$s before proceeding to "
+"authorization. This plugin requires a properly configured Google Analytics "
+"account!"
+msgstr ""
+"Bekijk de %1$s en lees de %2$s voor het instellen van de autorisatie. Deze "
+"plugin heeft een goed ingesteld Google Analytics account nodig."
+
+#: .././admin/settings.php:869 .././admin/settings.php:1153
+msgid "video"
+msgstr "video"
+
+#: .././admin/settings.php:869 .././admin/settings.php:1153
+msgid "tutorial"
+msgstr "tutorial"
+
+#: .././admin/settings.php:874 .././admin/settings.php:1160
+msgid "use your own API Project credentials"
+msgstr "gebruik aangepaste API Project credentials"
+
+#: .././admin/settings.php:878 .././admin/settings.php:1167
+msgid "API Key:"
+msgstr "API Key:"
+
+#: .././admin/settings.php:882 .././admin/settings.php:1171
+msgid "Client ID:"
+msgstr "Client ID:"
+
+#: .././admin/settings.php:886 .././admin/settings.php:1175
+msgid "Client Secret:"
+msgstr "Client Secret:"
+
+#: .././admin/settings.php:896 .././admin/settings.php:1185
+msgid "Clear Authorization"
+msgstr "Autorisatie verwijderen"
+
+#: .././admin/settings.php:896 .././admin/settings.php:971
+#: .././admin/settings.php:1185 .././admin/settings.php:1260
+msgid "Clear Cache"
+msgstr "Cache leegmaken"
+
+#: .././admin/settings.php:896
+msgid "Reset Errors"
+msgstr "Fouten resetten"
+
+#: .././admin/settings.php:902 .././admin/setup.php:80
+#: .././admin/setup.php:115
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: .././admin/settings.php:905
+msgid "Select View:"
+msgstr "Kies weergave:"
+
+#: .././admin/settings.php:916 .././admin/settings.php:1213
+msgid "Property not found"
+msgstr "Property niet gevonden"
+
+#: .././admin/settings.php:921
+msgid "Lock Selection"
+msgstr "Selectie vergrendelen"
+
+#: .././admin/settings.php:939
+msgid "Theme Color:"
+msgstr "Thema kleur:"
+
+#: .././admin/settings.php:947 .././admin/settings.php:1222
+msgid "Automatic Updates"
+msgstr "Automatische updates"
+
+#: .././admin/settings.php:957 .././admin/settings.php:1232
+msgid ""
+"automatic updates for minor versions (security and maintenance releases only)"
+msgstr ""
+"automatische updates voor minor versies (alleen beveiliging- en "
+"onderhoudreleases)"
+
+#: .././admin/settings.php:971 .././admin/settings.php:1260
+#: .././admin/widgets.php:42
+msgid "Authorize Plugin"
+msgstr "Plugin autoriseren"
+
+#: .././admin/settings.php:1047
+msgid "Properties refreshed."
+msgstr "Properties zijn vernieuwd."
+
+#: .././admin/settings.php:1131
+msgid "Network Setup"
+msgstr "Netwerk setup"
+
+#: .././admin/settings.php:1141
+msgid "use a single Google Analytics account for the entire network"
+msgstr "gebruik één Google Analytics account voor het hele netwerk"
+
+#: .././admin/settings.php:1185
+msgid "Refresh Properties"
+msgstr "Properties vernieuwen"
+
+#: .././admin/settings.php:1191
+msgid "Properties/Views Settings"
+msgstr "Properties/weergaven instellingen"
+
+#: .././admin/settings.php:1246
+msgid "exclude Super Admin tracking for the entire network"
+msgstr "uitsluiten van Super Admin tracking voor het hele netwerk"
+
+#: .././admin/settings.php:1291
+msgid "Setup Tutorial & Demo"
+msgstr "Setup tutorial & demo"
+
+#: .././admin/settings.php:1299
+msgid "Support & Reviews"
+msgstr "Support & reviews"
+
+#: .././admin/settings.php:1306
+#, php-format
+msgid "Plugin documentation and support on %s"
+msgstr "Plugin documentatie en support op %s"
+
+#: .././admin/settings.php:1313
+#, php-format
+msgid "Your feedback and review are both important, %s!"
+msgstr "Uw feedback en review zijn beide belangrijk, %s!"
+
+#: .././admin/settings.php:1313
+msgid "rate this plugin"
+msgstr "waardeer deze plugin"
+
+#: .././admin/settings.php:1319
+msgid "Further Reading"
+msgstr "Meer informatie"
+
+#: .././admin/settings.php:1326
+#, php-format
+msgid "%s by moving your website to HTTPS/SSL."
+msgstr "%s door het verplaatsen van uw website naar HTTPS/SSL."
+
+#: .././admin/settings.php:1326
+msgid "Improve search rankings"
+msgstr "Verbeteren van zoek-rankings"
+
+#: .././admin/settings.php:1333
+#, php-format
+msgid "Other %s written by the same author"
+msgstr "Andere %s gemaakt door dezelfde auteur"
+
+#: .././admin/settings.php:1333
+msgid "WordPress Plugins"
+msgstr "Wordpress plugins"
+
+#: .././admin/settings.php:1339
+msgid "Other Services"
+msgstr "Andere services"
+
+#: .././admin/settings.php:1346
+#, php-format
+msgid "Speed up your website and plug into a whole %s"
+msgstr "Versnel uw website en voeg een %s"
+
+#: .././admin/settings.php:1346
+msgid "new level of site speed"
+msgstr "nieuw level van snelheid toe"
+
+#: .././admin/settings.php:1353
+#, php-format
+msgid "%s service with users tracking at IP level."
+msgstr "%s service met gebruikers-tracking op IP niveau."
+
+#: .././admin/settings.php:1353
+msgid "Web Analytics"
+msgstr "Web Analytics"
+
+#: .././admin/setup.php:76 .././admin/setup.php:111
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: .././admin/setup.php:84
+msgid "Backend Settings"
+msgstr "Backend instellingen"
+
+#: .././admin/setup.php:88
+msgid "Frontend Settings"
+msgstr "Frontend instellingen"
+
+#: .././admin/setup.php:92
+msgid "Tracking Code"
+msgstr "Trackingcode"
+
+#: .././admin/setup.php:195 .././admin/widgets.php:126
+msgid "Today"
+msgstr "Vandaag"
+
+#: .././admin/setup.php:196 .././admin/widgets.php:127
+msgid "Yesterday"
+msgstr "Gisteren"
+
+#: .././admin/setup.php:197 .././admin/widgets.php:128
+#: .././front/widgets.php:74 .././front/widgets.php:182
+msgid "Last 7 Days"
+msgstr "Afgelopen 7 dagen"
+
+#: .././admin/setup.php:198 .././admin/widgets.php:130
+#: .././front/widgets.php:80 .././front/widgets.php:184
+msgid "Last 30 Days"
+msgstr "Afgelopen 30 dagen"
+
+#: .././admin/setup.php:199 .././admin/widgets.php:131
+msgid "Last 90 Days"
+msgstr "Afgelopen 90 dagen"
+
+#: .././admin/setup.php:202 .././admin/setup.php:218
+msgid "Unique Views"
+msgstr "Unieke weergaven"
+
+#: .././admin/setup.php:203 .././admin/setup.php:219
+#: .././admin/widgets.php:136 .././admin/widgets.php:875
+#: .././tools/gapi.php:391
+msgid "Users"
+msgstr "Bezoekers"
+
+#: .././admin/setup.php:204 .././admin/widgets.php:137
+msgid "Organic"
+msgstr "Via zoekmachines"
+
+#: .././admin/setup.php:205 .././admin/setup.php:220
+#: .././admin/widgets.php:138 .././admin/widgets.php:879
+#: .././tools/gapi.php:394
+msgid "Page Views"
+msgstr "Paginaweergaven"
+
+#: .././admin/setup.php:206 .././admin/setup.php:221
+#: .././admin/widgets.php:139 .././admin/widgets.php:883
+#: .././tools/gapi.php:397
+msgid "Bounce Rate"
+msgstr "Bouncepercentage"
+
+#: .././admin/setup.php:207 .././admin/widgets.php:140
+msgid "Location"
+msgstr "Locaties"
+
+#: .././admin/setup.php:208 .././admin/widgets.php:142 .././tools/gapi.php:566
+msgid "Referrers"
+msgstr "Beste verwijzingen"
+
+#: .././admin/setup.php:209 .././admin/widgets.php:143 .././tools/gapi.php:612
+#: .././tools/gapi.php:922
+msgid "Searches"
+msgstr "Beste zoekopdrachten"
+
+#: .././admin/setup.php:210 .././admin/widgets.php:144
+msgid "Traffic Details"
+msgstr "Verkeer"
+
+#: .././admin/setup.php:213 .././admin/widgets.php:510
+#: .././admin/widgets.php:607 .././admin/widgets.php:805
+#: .././admin/widgets.php:917 .././front/item-reports.php:94
+msgid "A JavaScript Error is blocking plugin resources!"
+msgstr "Een Javascript fout blokkeert plugin bestanden!"
+
+#: .././admin/setup.php:214 .././admin/widgets.php:713
+msgid "Traffic Mediums"
+msgstr "Verkeersbronnen"
+
+#: .././admin/setup.php:215 .././admin/widgets.php:729
+msgid "Visitor Type"
+msgstr "Nieuw vs. terugkerend"
+
+#: .././admin/setup.php:216 .././admin/widgets.php:745
+msgid "Social Networks"
+msgstr "Sociale netwerken"
+
+#: .././admin/setup.php:217 .././admin/widgets.php:761
+msgid "Search Engines"
+msgstr "Zoekmachines"
+
+#: .././admin/setup.php:222 .././admin/widgets.php:887
+msgid "Organic Search"
+msgstr "Zoekopdrachten"
+
+#: .././admin/setup.php:223 .././admin/widgets.php:891
+msgid "Pages/Session"
+msgstr "Pagina's/bezoek"
+
+#: .././admin/setup.php:224 .././admin/widgets.php:523
+#: .././admin/widgets.php:541 .././admin/widgets.php:620
+#: .././admin/widgets.php:638 .././admin/widgets.php:657
+#: .././admin/widgets.php:676 .././admin/widgets.php:696
+#: .././admin/widgets.php:819 .././admin/widgets.php:930
+#: .././admin/widgets.php:949 .././front/item-reports.php:106
+#: .././front/item-reports.php:125
+msgid "Invalid response, more details in JavaScript Console (F12)."
+msgstr "Ongeldige response, zie voor meer details de Javascript console (F12)"
+
+#: .././admin/setup.php:225
+msgid "Not enough data collected"
+msgstr "Niet voldoende data verzameld"
+
+#: .././admin/setup.php:226 .././admin/widgets.php:528
+#: .././admin/widgets.php:546 .././admin/widgets.php:625
+#: .././admin/widgets.php:643 .././admin/widgets.php:662
+#: .././admin/widgets.php:681 .././admin/widgets.php:701
+#: .././admin/widgets.php:824 .././admin/widgets.php:827
+#: .././admin/widgets.php:935 .././admin/widgets.php:954
+#: .././front/item-reports.php:111 .././front/item-reports.php:130
+#: .././front/widgets.php:110
+msgid "This report is unavailable"
+msgstr "Dit rapport is niet beschikbaar"
+
+#: .././admin/setup.php:227
+msgid "report generated by"
+msgstr "rapport gegenereerd door"
+
+#: .././admin/setup.php:267
+msgid "Settings"
+msgstr "Instellingen"
+
+#: .././admin/widgets.php:33 .././front/widgets.php:22
+msgid "Google Analytics Dashboard"
+msgstr "Bezoekersstatistieken"
+
+#: .././admin/widgets.php:42
+msgid "This plugin needs an authorization:"
+msgstr "Deze plugin heeft autorisatie nodig:"
+
+#: .././admin/widgets.php:76
+msgid "Something went wrong while retrieving profiles list."
+msgstr "Er ging iets mis met het ophalen van de profielen."
+
+#: .././admin/widgets.php:76
+msgid "More details"
+msgstr "Meer details"
+
+#: .././admin/widgets.php:89 .././admin/widgets.php:100
+msgid "An admin should asign a default Google Analytics Profile."
+msgstr ""
+"Een administrator moet een standaard Google Analytics profiel instellen"
+
+#: .././admin/widgets.php:89 .././admin/widgets.php:100
+msgid "Select Domain"
+msgstr "Kies een domein"
+
+#: .././admin/widgets.php:105
+msgid ""
+"Something went wrong while retrieving property data. You need to create and "
+"properly configure a Google Analytics account:"
+msgstr ""
+"Er ging iets mis met het ophalen van de property data. Creëer eerst een "
+"Google Analytics account en stel deze correct in:"
+
+#: .././admin/widgets.php:105
+msgid "Find out more!"
+msgstr "Lees meer..."
+
+#: .././admin/widgets.php:125
+msgid "Real-Time"
+msgstr "Realtime"
+
+#: .././admin/widgets.php:129 .././front/widgets.php:77
+#: .././front/widgets.php:183
+msgid "Last 14 Days"
+msgstr "Afgelopen 14 dagen"
+
+#: .././admin/widgets.php:135 .././admin/widgets.php:871
+#: .././front/widgets.php:46 .././tools/gapi.php:406 .././tools/gapi.php:567
+#: .././tools/gapi.php:613 .././tools/gapi.php:676 .././tools/gapi.php:786
+#: .././tools/gapi.php:827 .././tools/gapi.php:923
+msgid "Sessions"
+msgstr "Bezoeken"
+
+#: .././admin/widgets.php:141 .././tools/gapi.php:521
+msgid "Pages"
+msgstr "Meest bezochte pagina's"
+
+#: .././admin/widgets.php:232 .././admin/widgets.php:472
+msgid "REFERRAL"
+msgstr "Verwijzend"
+
+#: .././admin/widgets.php:236 .././admin/widgets.php:473
+msgid "ORGANIC"
+msgstr "Zoekmachines"
+
+#: .././admin/widgets.php:240 .././admin/widgets.php:360
+#: .././admin/widgets.php:474
+msgid "SOCIAL"
+msgstr "Sociale media"
+
+#: .././admin/widgets.php:244 .././admin/widgets.php:363
+#: .././admin/widgets.php:475
+msgid "CAMPAIGN"
+msgstr "Campagne"
+
+#: .././admin/widgets.php:248 .././admin/widgets.php:366
+#: .././admin/widgets.php:478
+msgid "DIRECT"
+msgstr "Direct"
+
+#: .././admin/widgets.php:252 .././admin/widgets.php:479
+msgid "NEW"
+msgstr "Nieuw"
+
+#: .././admin/widgets.php:354
+msgid "REFERRALS"
+msgstr "Verwijzingen"
+
+#: .././admin/widgets.php:357
+msgid "KEYWORDS"
+msgstr "Zoekwoorden"
+
+#: .././front/item-reports.php:140
+msgid "Views vs UniqueViews"
+msgstr "Weergaven vs Unieke weergaven"
+
+#: .././front/item-reports.php:190
+msgid "Google Analytics Reports"
+msgstr "Google Analytics rapport"
+
+#: .././front/widgets.php:23
+msgid "Will display your google analytics stats in a widget"
+msgstr "Toont de Google Analytics statistieken in een widget"
+
+#: .././front/widgets.php:46 .././tools/gapi.php:827
+msgid "trend"
+msgstr "trend"
+
+#: .././front/widgets.php:133
+msgid "Period:"
+msgstr "Periode:"
+
+#: .././front/widgets.php:133
+msgid "Sessions:"
+msgstr "Sessies:"
+
+#: .././front/widgets.php:137
+msgid "generated by"
+msgstr "gegenereerd door"
+
+#: .././front/widgets.php:147
+msgid "Google Analytics Stats"
+msgstr "Google Analytics statistieken"
+
+#: .././front/widgets.php:154
+msgid "Title:"
+msgstr "Titel:"
+
+#: .././front/widgets.php:161
+msgid "Display:"
+msgstr "Weergave"
+
+#: .././front/widgets.php:165
+msgid "Chart & Totals"
+msgstr "Grafiek & totaal aantallen"
+
+#: .././front/widgets.php:166
+msgid "Chart"
+msgstr "Grafiek"
+
+#: .././front/widgets.php:167
+msgid "Totals"
+msgstr "Totaal aantallen"
+
+#: .././front/widgets.php:171
+msgid "Anonymize stats:"
+msgstr "Maak statistieken anoniem:"
+
+#: .././front/widgets.php:178
+msgid "Stats for:"
+msgstr "Statistieken voor:"
+
+#: .././front/widgets.php:188
+msgid "Give credits:"
+msgstr "Toon credits:"
+
+#: .././gadwp.php:46 .././gadwp.php:55 .././gadwp.php:63
+msgid "This is not allowed, read the documentation!"
+msgstr "Dit is niet toegestaan, lees de documentatie!"
+
+#: .././tools/gapi.php:134
+msgid "Use this link to get your access code:"
+msgstr "Gebruik deze link voor het verkrijgen van de toegangscode:"
+
+#: .././tools/gapi.php:134
+msgid "Get Access Code"
+msgstr "Toegangscode ophalen"
+
+#: .././tools/gapi.php:138 .././tools/gapi.php:139
+msgid "Use the red link to get your access code!"
+msgstr "Gebruik de rode link om de toegangscode op te halen!"
+
+#: .././tools/gapi.php:138
+msgid "Access Code:"
+msgstr "Toegangscode:"
+
+#: .././tools/gapi.php:145
+msgid "Save Access Code"
+msgstr "Toegangscode opslaan"
+
+#: .././tools/gapi.php:400
+msgid "Organic Searches"
+msgstr "Zoekopdrachten"
+
+#: .././tools/gapi.php:403
+msgid "Unique Page Views"
+msgstr "Unieke paginaweergaven"
+
+#: .././tools/gapi.php:411
+msgid "Hour"
+msgstr "Uur"
+
+#: .././tools/gapi.php:414 .././tools/gapi.php:826 .././tools/gapi.php:878
+msgid "Date"
+msgstr "Datum"
+
+#: .././tools/gapi.php:522 .././tools/gapi.php:879
+msgid "Views"
+msgstr "Weergaven"
+
+#: .././tools/gapi.php:640
+msgid "Countries"
+msgstr "Landen"
+
+#: .././tools/gapi.php:650
+msgid "Cities from"
+msgstr "Steden uit"
+
+#: .././tools/gapi.php:722
+msgid "Channels"
+msgstr "Kanalen"
+
+#: .././tools/gapi.php:785
+msgid "Type"
+msgstr "Type"
+
+#: .././tools/gapi.php:880
+msgid "UniqueViews"
+msgstr "Unieke weergaven"
+
+#~ msgid "Top Searches"
+#~ msgstr "Beste zoekopdrachten"
+
+#~ msgid ""
+#~ " (watch this <a href='http://deconf.com/projects/google-analytics-"
+#~ "dashboard-for-wordpress/' target='_blank'>Step by step video tutorial</a>)"
+#~ msgstr ""
+#~ " (watch this <a href='http://deconf.com/projects/google-analytics-"
+#~ "dashboard-for-wordpress/' target='_blank'>Step by step video tutorial</a>)"
+
+#~ msgid ""
+#~ "No stats available. Please check the Debugging Data section for possible "
+#~ "errors"
+#~ msgstr "Geen statistieken beschikbaar."
+
+#~ msgid "Source"
+#~ msgstr "Bron"
+
+#~ msgid "New vs. Returning"
+#~ msgstr "Nieuw vs. terugkerend"
+
+#~ msgid "RETURN"
+#~ msgstr "Terugkerend"
+
+#~ msgid "Traffic Overview"
+#~ msgstr "Verkeer"
+
+#~ msgid "Visits"
+#~ msgstr "Bezoeken"
+
+#~ msgid "Visits:"
+#~ msgstr "Bezoeken:"
+
+#~ msgid "Visitors:"
+#~ msgstr "Bezoekers:"
+
+#~ msgid "Page Views:"
+#~ msgstr "Paginaweergaven:"
+
+#~ msgid "Bounce Rate:"
+#~ msgstr "Bouncepercentage:"
+
+#~ msgid "Pages per Visit:"
+#~ msgstr "Paginaweergaven per bezoek:"
