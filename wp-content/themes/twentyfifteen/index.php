@@ -43,23 +43,23 @@ function getData() {
         <article class="page type-page status-publish hentry">  
             <button class="langBlock animated">UA</button>
             <header class="entry-header" style="margin-right: 35px;">
-                <h1 class="entry-title">Get some word</h1>    
+                <h1 class="entry-title">Оберіть для себе найкраще слово</h1>    
             </header>
             <div style="padding: 0 9.0909%; width: 100%;">
                 <div class="blockWraper">
                     <div class="block">
-                        <button id="btnEasy" class="btnGet">Easy</button>
+                        <button id="btnEasy" class="btnGet">Легке</button>
                     </div>
                     <div class="block">
-                        <button id="btnMed" class="btnGet">Medium</button>
+                        <button id="btnMed" class="btnGet">Середнє</button>
                     </div>
                 </div>
                 <div class="blockWraper">
                     <div class="block">
-                        <button id="btnHard" class="btnGet">Hard</button>
+                        <button id="btnHard" class="btnGet">Важке</button>
                     </div>
                     <div class="block">
-                        <button id="btnWords" class="btnGet">Words</button>
+                        <button id="btnWords" class="btnGet">Фраза</button>
                     </div>
                 </div>
             </div>
